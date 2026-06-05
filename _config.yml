@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+url: "https://efficientaiworkshop.github.io"
+baseurl: ""
 title: "1st Data and Model Efficiency for Scalable AI Workshop"
 title_html: "1st Data and Model Efficiency<br>for Scalable AI Workshop"
 description: "IEEE BigData 2026 Workshop &middot; Phoenix, USA"
