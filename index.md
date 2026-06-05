@@ -79,25 +79,25 @@ To be announced.
     <span class="organizer-affil">UC Riverside</span>
   </div>
   <div class="organizer-card" style="grid-column: 3/5">
-    <a href="https://yezil3.github.io/" target="_blank"><div class="organizer-photo"></div></a>
+    <a href="https://yezil3.github.io/" target="_blank"><div class="organizer-photo"><img src="images/yezi.jpg" alt="Yezi Liu"></div></a>
     <span class="organizer-name">Yezi Liu</span>
     <span class="organizer-role">PhD Student</span>
     <span class="organizer-affil">UC Irvine</span>
   </div>
   <div class="organizer-card" style="grid-column: 5/7">
-    <a href="https://www.cs.emory.edu/~wjin30//" target="_blank"><div class="organizer-photo"></div></a>
+    <a href="https://www.cs.emory.edu/~wjin30//" target="_blank"><div class="organizer-photo"><img src="images/wei.jpg" alt="Wei Jin"></div></a>
     <span class="organizer-name">Wei Jin</span>
     <span class="organizer-role">Assistant Professor</span>
     <span class="organizer-affil">Emory University</span>
   </div>
   <div class="organizer-card" style="grid-column: 2/4">
-    <a href="https://agupta2304.github.io/" target="_blank"><div class="organizer-photo"></div></a>
+    <a href="https://agupta2304.github.io/" target="_blank"><div class="organizer-photo"><img src="images/aman.jpg" alt="Aman Gupta"></div></a>
     <span class="organizer-name">Aman Gupta</span>
     <span class="organizer-role">Principal ML Engineer</span>
     <span class="organizer-affil">Nubank</span>
   </div>
   <div class="organizer-card" style="grid-column: 4/6">
-    <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank"><div class="organizer-photo"></div></a>
+    <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank"><div class="organizer-photo"><img src="images/vagelis.jpg" alt="Evangelos Papalexakis"></div></a>
     <span class="organizer-name">Evangelos (Vagelis) Papalexakis</span>
     <span class="organizer-role">Professor</span>
     <span class="organizer-affil">UC Riverside</span>
