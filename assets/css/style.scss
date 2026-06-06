@@ -85,10 +85,64 @@ $body-link-color: #4f46e5;
 }
 
 .main-content {
-  h1 { font-size: 1.85rem; font-weight: bold; }
-  h2 { font-size: 1.35rem; font-weight: bold; }
-  h3 { font-size: 1.2rem; font-weight: bold; }
+  h1 { font-size: 1.85rem; font-weight: bold; margin-bottom: 0.2rem; }
+  h2 { font-size: 1.35rem; font-weight: bold; margin-bottom: 0.2rem; }
+  h3 { font-size: 1.2rem; font-weight: bold; margin-bottom: 0.2rem; }
   h4, h5, h6 { font-size: 0.95rem; font-weight: bold; }
+}
+
+.main-content h1 + p,
+.main-content h2 + p,
+.main-content h3 + p,
+.main-content h2 + ul,
+.main-content h3 + ul,
+.main-content h3 + .submission-guidelines {
+  margin-top: 0;
+}
+
+.submission-guidelines li + li {
+  margin-top: 0.6rem;
+}
+
+.main-content details {
+  margin-top: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.main-content details > summary {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: $section-headings-color;
+  cursor: pointer;
+  user-select: none;
+  padding: 0.2rem 0;
+  margin-bottom: 0.5rem;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.main-content details > summary::marker,
+.main-content details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.main-content details > summary::before {
+  content: "▶";
+  font-size: 0.65em;
+  color: $body-link-color;
+  transition: transform 0.15s ease;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.main-content details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.main-content details > summary:hover {
+  color: $body-link-color;
 }
 
 @include small {

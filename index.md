@@ -8,9 +8,10 @@ The rapid growth of AI, driven by large datasets and foundation models, has brou
 
 ## Call for Papers
 
-### Topics of Interest
+We invite original, unpublished research papers on the challenges and advances in data and model efficiency for scalable AI. Accepted papers will be presented as posters, with a subset selected for oral presentations, and published in the IEEE BigData 2026 Workshop Proceedings by the IEEE Computer Society Press. All submissions are reviewed through a double-blind process by members of the program committee.
 
-Topics include, but are not limited to:
+{% capture topics_content %}
+We encourage the submission of papers on topics within the areas listed below. Submissions are not restricted to these specific topics, and we welcome any work that aligns with the general goals of the workshop.
 
 **Model Efficiency and Compression**
 - Model pruning, sparsification, and quantization
@@ -49,14 +50,29 @@ Topics include, but are not limited to:
 - Trade-offs between efficiency, accuracy, robustness, and cost
 - Benchmarks, metrics, and protocols for efficiency-quality-cost trade-offs
 - Theoretical insights into data and model reduction
+{% endcapture %}
 
-### Submission Site
-
-To be announced.
+<details open>
+<summary>Topics of Interest</summary>
+{{ topics_content | markdownify }}
+</details>
 
 ### Submission Guidelines
 
-To be announced.
+{% capture guidelines_content %}
+- **Format:** Submissions must be a PDF file following the [IEEE Computer Society Proceedings Manuscript Formatting Guidelines and Templates](https://www.ieee.org/conferences/publishing/templates).
+- **Length:** Papers should be at most X pages, not including the appendix (limited to Y pages), GenAI disclosure, and references. All submissions must include a GenAI disclosure statement.
+- **Review:** This workshop uses double-blind review. Author names and affiliations must be removed from the submission. Papers that are not properly anonymized will be desk-rejected without review.
+- **Presentation:** At least one author of each accepted paper must register and present the work in person at Phoenix, AZ, USA.
+{% endcapture %}
+
+<div class="submission-guidelines">
+{{ guidelines_content | markdownify }}
+</div>
+
+### Submission Site
+
+All submissions must be made through the following link: [Cyberchair submission portal](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S40&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php).
 
 ## Important Dates
 
