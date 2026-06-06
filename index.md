@@ -72,7 +72,7 @@ We encourage the submission of papers on topics within the areas listed below. S
 
 ### Submission Site
 
-All submissions must be made through the following link: [Cyberchair submission portal](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S40&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php).
+All submissions must be made through the [Cyberchair submission portal](https://wi-lab.com/cyberchair/2026/bigdata26/scripts/submit.php?subarea=S40&undisplay_detail=1&wh=/cyberchair/2026/bigdata26/scripts/ws_submit.php).
 
 ## Important Dates
 
@@ -89,32 +89,32 @@ All submissions must be made through the following link: [Cyberchair submission 
 
 <div class="organizers-grid">
   <div class="organizer-card" style="grid-column: 1/3">
-    <a href="https://nicolasrsantos.github.io/" target="_blank"><div class="organizer-photo"><img src="images/nicolas.jpg" alt="Nícolas Roque dos Santos"></div></a>
-    <span class="organizer-name">Nícolas Roque dos Santos</span>
+    <a href="https://nicolasrsantos.github.io/" target="_blank"><div class="organizer-photo"><img src="images/nicolas.jpg" alt="Nícolas Roque dos Santos" style="object-position: center 3%;"></div></a>
+    <a href="https://nicolasrsantos.github.io/" target="_blank" class="organizer-name">Nícolas Roque dos Santos</a>
     <span class="organizer-role">Postdoctoral Researcher</span>
     <span class="organizer-affil">UC Riverside</span>
   </div>
   <div class="organizer-card" style="grid-column: 3/5">
     <a href="https://yezil3.github.io/" target="_blank"><div class="organizer-photo"><img src="images/yezi.jpg" alt="Yezi Liu"></div></a>
-    <span class="organizer-name">Yezi Liu</span>
-    <span class="organizer-role">PhD Student</span>
+    <a href="https://yezil3.github.io/" target="_blank" class="organizer-name">Yezi Liu</a>
+    <span class="organizer-role">PhD Candidate</span>
     <span class="organizer-affil">UC Irvine</span>
   </div>
   <div class="organizer-card" style="grid-column: 5/7">
     <a href="https://www.cs.emory.edu/~wjin30//" target="_blank"><div class="organizer-photo"><img src="images/wei.jpg" alt="Wei Jin"></div></a>
-    <span class="organizer-name">Wei Jin</span>
+    <a href="https://www.cs.emory.edu/~wjin30//" target="_blank" class="organizer-name">Wei Jin</a>
     <span class="organizer-role">Assistant Professor</span>
     <span class="organizer-affil">Emory University</span>
   </div>
   <div class="organizer-card" style="grid-column: 2/4">
     <a href="https://agupta2304.github.io/" target="_blank"><div class="organizer-photo"><img src="images/aman.jpg" alt="Aman Gupta"></div></a>
-    <span class="organizer-name">Aman Gupta</span>
+    <a href="https://agupta2304.github.io/" target="_blank" class="organizer-name">Aman Gupta</a>
     <span class="organizer-role">Principal ML Engineer</span>
     <span class="organizer-affil">Nubank</span>
   </div>
   <div class="organizer-card" style="grid-column: 4/6">
     <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank"><div class="organizer-photo"><img src="images/vagelis.jpg" alt="Evangelos Papalexakis"></div></a>
-    <span class="organizer-name">Evangelos (Vagelis) Papalexakis</span>
+    <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank" class="organizer-name">Evangelos (Vagelis) Papalexakis</a>
     <span class="organizer-role">Professor</span>
     <span class="organizer-affil">UC Riverside</span>
   </div>
